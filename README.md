@@ -4,3 +4,7 @@ A python model built on google.colab, where data was installed from kaggle.com a
 While running this model on google colab, you have to be signed in to kaggle.com and make a token and upload it, as I am connecting kaggle with colab so as not to download the data on my PC.
 
 Also at the end I am saving the model.h5 on google drive, so there will be a connection request to your google drive account to save the model.
+
+At the end I have made a python code to use my .h5 file, i.e. deep learning model to test new data randomly selected from the internet. Simple Model Deployment.
+
+I have also uploaded the random pictures 9.
