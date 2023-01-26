@@ -8,7 +8,6 @@
 -Data was installed from Kaggle.com @DatasetDownload 
 ![image](https://user-images.githubusercontent.com/112272836/214932904-5cb0457c-68f2-4ec2-ab9b-efc58d84a7c9.png)
 
-
 -The task was to classify these images with CNN.
 
 -The accuracy was 92% .
