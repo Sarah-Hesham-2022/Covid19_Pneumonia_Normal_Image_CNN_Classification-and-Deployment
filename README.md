@@ -5,8 +5,7 @@
 
 -Where data was installed from kaggle.com and it contained images of corona virus, pneumonia (lung disease) and normal images .
 
--Data was installed from Kaggle.com @DatasetDownload 
-![image](https://user-images.githubusercontent.com/112272836/214932904-5cb0457c-68f2-4ec2-ab9b-efc58d84a7c9.png)
+https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
 
 -The task was to classify these images with CNN.
 
